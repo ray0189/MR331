@@ -1,0 +1,4 @@
+﻿64a354da29bfe7b437159fe59f9e54cdd68a5d8cf6c836daed95e087d411a64c *openwrt-18.06.1-ipq40xx-meraki_mr33-initramfs-fit-uImage.itb
+a70bd22a21b5dc0eb62c54fc659ef0e9c5b2e978a4e0551d3b5fa3cd110a97ad *openwrt-18.06.1-ipq40xx-meraki_mr33-squashfs-sysupgrade.bin
+fca9df4cd492fbca2cebbc1daccba12371b6e97578f7542af2911ead9e5c0a08 *openwrt-ipq40xx-meraki_mr33-initramfs-fit-uImage.itb
+f836bb1f3b97400b5bccda32d4ba1dc4ddac26a9522c9552c65ef9fd158c43f2 *openwrt-ipq40xx-meraki_mr33-squashfs-sysupgrade.bin
